@@ -1,9 +1,9 @@
 #include <iostream>
-
+#include "lib/2048cpp.h"
 using namespace std;
 
 int main()
 {
-    cout << "Hello world!" << endl;
+    prueba();
     return 0;
 }
